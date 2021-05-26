@@ -1,2 +1,4 @@
 #theme: jekyll-theme-minimal
 site_url: https://lem-mouv.github.io/lem-mouv/
+
+theme: jekyll-theme-slate
